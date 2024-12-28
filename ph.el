@@ -4,6 +4,8 @@
 
 ;; Author: Alexander Gromnitsky <alexander.gromnitsky@gmail.com>
 
+;; Package-Requires: ((emacs "24.3"))
+
 ;; This file is not part of GNU Emacs.
 
 ;; This file is free software; you can redistribute it and/or modify
